@@ -1,0 +1,31 @@
+Revision history for Perl extension DateTime::Calendar::Fiscal5253
+
+2012-07-21 05:46  jim
+
+	* lib/DateTime/Calendar/Fiscal5253.pm: Final edit of documentation
+	  and code prior to release.
+
+2012-07-21 05:08  jim
+
+	* Makefile.PL: Added module dependencies
+
+2012-07-21 05:07  jim
+
+	* t/10_constructors.t, t/20_accessors.t, t/30_methods.t,
+	  t/80_sanity.t, t/90_pod.t, t/91_coverage.t: Test suite for
+	  initial release
+
+2012-07-21 05:06  jim
+
+	* MANIFEST: Added additional test scripts
+
+2012-07-16 23:59  jim
+
+	* t/99_pod.t: Initial checkin
+
+2012-07-14 03:01  jim
+
+	* Changes, MANIFEST, Makefile.PL, README, lib, lib/DateTime,
+	  lib/DateTime/Calendar, lib/DateTime/Calendar/Fiscal5253.pm, t,
+	  t/00_load.t: Initial import
+
